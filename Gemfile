@@ -1,0 +1,22 @@
+source 'https://rubygems.org'
+
+# gem 'awesome_print' # TEMP
+# gem 'commander'
+# gem 'logger-colors'
+# gem 'rubyXL'
+# gem 'table_print'
+# gem 'money'
+# gem 'monetize'
+# gem 'clipboard'
+# gem 'ffi'
+#, :platforms => [:mswin, :mingw]
+# gem 'prawn'
+# gem 'values'
+# gem 'combine_pdf'
+# gem 'htmlentities'
+# gem 'gmail'
+# gem 'value_semantics'
+# gem 'rom'
+gem 'pry'
+# gem 'pry-doc'
+# gem 'pry-stack_explorer'
